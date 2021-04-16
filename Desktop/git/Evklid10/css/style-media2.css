@@ -1,0 +1,134 @@
+@media (max-width: 768px) {
+    .container {
+        padding: 0 50px;
+        max-width: 768px;
+    }
+
+    .header {
+        height: 69px;
+    }
+
+    .header-content {
+        padding-top: 10px;
+    }
+
+    .hero-container {
+        padding: 0;
+        background-image: url(../img/img3.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .hero-content {
+        padding: 150px 0 25px 50px;
+        background-image: none;
+    }
+
+    .about-text {
+        line-height: 32px;
+    }
+
+    .about-col-left-bg {
+        margin-bottom: 40px;
+        background-image: url('../img/rect13.jpg');
+    }
+
+    .about-col-left {
+        margin-top: 480px;
+        padding: 23px 30px;
+    }
+
+    .about-col-left-text {
+        padding-right: 70px;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 32px;
+    }
+
+    .about-link {
+        margin-right: 0;
+    }
+
+    .about-list-bg1 {
+        background-size: 18%;
+    }
+
+    .about-list-bg2 {
+        background-size: 18%;
+    }
+
+    .about-list-item {
+        padding: 35px 0 35px 180px;
+        margin-bottom: 40px;
+        background-position: 6% 50%;
+    }
+    
+    .about-item-text {
+        font-size: 16px;
+    }
+
+    .how-list-item {
+        margin-right: auto;
+    }
+
+    .how-list-item:last-child {
+        margin-right: 0;
+    }
+
+    .how-flex {
+        flex-direction: column-reverse;
+    }
+
+    /* .how-img-lg {
+        display: none;
+    }
+
+    .how-img-md {
+        display: block;
+        margin-bottom: 40px;
+    } */
+
+    .how-col-left {
+        width: 100%;
+    }
+
+    .how-col-left-text {
+        font-size: 16px;
+    }
+
+
+    .section-faq {
+        margin-bottom: 60px;
+    }
+
+    .faq-section-title {
+        letter-spacing: 1.5px;
+    }
+
+    .faq-item-head {
+        width: 80%;
+        line-height: 32px;
+    }
+
+    .faq-list-item {
+        padding: 25px 0;
+    }
+
+    
+    .footer-flex {
+        flex-direction: column-reverse;
+    }
+
+    .footer-list {
+        display: none;
+    }
+
+    .footer-col-center {
+        padding-left: 0;
+        margin-bottom: 58px;
+    }
+
+    .footer-social-list {
+        margin-top: 10px;
+    }
+}

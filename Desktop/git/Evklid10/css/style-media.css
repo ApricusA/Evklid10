@@ -1,0 +1,159 @@
+@media (max-width: 1200px) {
+    .container {
+        padding-right: 0;
+        padding-left: 0;
+        max-width: 924px;
+    }
+
+    .header-content {
+        padding-top: 24px;
+    }
+
+    .header-nav {
+        display: none;
+    }
+
+    .burger {
+        display: block;
+    }
+
+    .header-logo {
+        margin-left: auto;
+    }
+
+    .header-logo-img {
+        width: 150px;
+        height: 48px;
+    }
+
+    .search-btn {
+        margin-right: 0;
+    }
+
+    .hero-content {
+        padding: 120px 0 25px 50px;
+        background-image: url('../img/img2.jpg');
+    }
+
+    .main-title {
+        margin-bottom: 10px;
+        width: 100%;
+        font-size: 60px;
+        line-height: 73px;
+    }
+
+    .hero-text {
+        padding-bottom: 105px;
+        font-size: 20px;
+        line-height: 26px;
+    }
+    
+    .hero-btn {
+        font-size: 24px;
+        font-weight: 700;
+        padding: 25px 42px;
+    }
+
+
+
+    .section-about {
+        margin-top: 65px;
+        margin-bottom: 15px;
+    }
+
+    .about-text {
+        padding-bottom: 50px;
+        width: 100%;
+    }
+
+
+
+    .about-flex {
+        flex-direction: column;
+    }
+
+    .about-col-left {
+        margin-top: 470px;
+        padding: 40px 40px 40px 45px;
+    }
+    
+    .about-col-left-text {
+        padding-right: 170px;
+    }
+    
+    .about-col-left-bg {
+        margin-bottom: 50px;
+    }
+
+    .about-list {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .about-list-item {
+        padding: 65px 0 65px 350px;
+        margin-bottom: 40px;
+        background-position: 15% 50%;
+    }
+
+
+
+    .section-how {
+        margin-bottom: 60px;
+    }
+    
+    .how-col-left-text {
+        padding-right: 35px;
+        padding-bottom: 28px;
+    }
+
+    .how-link1 {
+        padding: 20px 42px;
+    }
+
+    /* .how-img-xl {
+        display: none;
+    } */
+
+    /* .how-img-lg {
+        display: block;
+        margin-top: 10px;
+        margin-left: 20px;
+    } */
+    
+    
+
+    .section-faq {
+        margin-bottom: 65px;
+    }
+
+    .faq-list-item {
+        padding: 32px 0;
+    }
+
+    .faq-item-head {
+        font-size: 20px;
+    }
+
+
+
+    .footer-col-center {
+        padding-left: 90px;
+    }
+
+    .footer-title {
+        width: 450px;
+    }
+
+    .form-input {
+        width: 535px;
+    }
+    
+    .footer-btn {
+        padding: 20px 40px;
+    }
+
+    .footer-col-text {
+        display: none;
+    }
+}
